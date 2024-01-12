@@ -1,0 +1,31 @@
+Blue text is stage directions. There will be more when we start blocking the presentation.
+
+Team Management — 55 sec
+Dizire - Our goal is to become a high-performing team. What that means to us is using gracious professionalism, passing on what we’ve learned, and working together to build an incredible robot game. 
+Neş’et - As a team, we train our teamwork and communication once a week. Our subteams meet 4-5 times a week and focus on building, programming, outreach, planning,, and organizing.
+Sara - Our team strategy is to go for a minimum viable product and then iterate quickly on failures to turn them into successes. 
+Jamison - We bring in people from multiple industries to meet us and find our mentors and sponsors, including Aquaveo, Motorola Solutions, the Department of Defense and the Utah STEM Action Center, as well as finding multiple mentors at our school, Beehive Academy. 
+Materials Management — 15 sec
+Mayank - The Materials Management team interacts with the other subteams weekly to see what has been used and what is needed
+Rishi - We created a Kanban board and taught the teams to use Post-it notes to create tasks that are either created, assigned, in-progress, or done to allow our team to organize and adapt to their needs as they need it.
+Build & Design — 90 sec
+Tanner - Meet Pollinator Prime. Point to robot In this game, we need a fast intake. As part of our iterate-fast process, our first prototype used compliance wheels, then we tried 3D-printed wheels, then a rubber band and sprocket system, and our current iteration uses a combination of the rubber band and sprocket system, rollers, and boot-wheels. 
+James - Our pixel storage tray went through all of these fail-fast iterations. People behind show iterations, the speaker should signal while speaking. We started with drawn designs, basic proof of concepts and initial prototypes. With this many iterations, we transitioned to test and design in CAD. We went through many CAD versions - like 43. This tray is our current version 44.	
+Max - We utilize an iterative design process, where we brainstorm, make a proof-of-concept, prototype, test, then iterate. While brainstorming, we were surprised at the consistency of picking up a pixel from the inside hole, which allows us to place the pixels at the very edge of the backdrop.
+Jonah  - One of the consequences of contiuniusly editing the tray is that the arm dimensions have to be changed in tandem. As we iterated, we made improvements, including selecting a motor with a longer shaft to reduce the moment of inertia of the arm.
+James - We researched different paper airplane designs and created a consistent drone launcher on our robot. We calculated the angle for our mechanism, launched our drone over 35 times and recorded our data to get the best angle, resulting in a super reliable drone launch.
+Dakota - We designed and tested several proof-of-concepts for suspending our robot, but they did not match our goal of simplicity. Then, we realized that the elbow could work as a hook, so we could suspend without any new mechanisms. A quick test proved us correct and we have a lighter, less expensive, and simpler robot that didn’t need to change. [Show design ideas, video of robot hanging, then Royd’s 6 S’s
+Programming team — 50 sec
+Robbie - Offer glasses to the judges and ask if we can run the robot We created a state machine that allows pixel placement by just pressing one button repeatedly. Please push this button until the robot drops the pixel. Hold the controller for the judge and point to the correct button. Most actions including our drone launch are programmed to be a simple button push. 
+Ashley - This year for the first time we added odometry wheels and began using roadrunner. This enables the robot to keep track of it's position on the field. This also improves teleop because the robot uses field-oriented driving (meaning that no matter the robot’s heading, up is always the same direction on the field). Because our robot knows where it is on the field, our autonomous programming is quick to change, by just changing its path on the field rather than worrying about individual motors and timing.
+Dizire - In autonomous, our Husky lens programming uses AI to recognize our Team Object, give us its position, and execute code. More personally, as a freshman this year, I wanted you to know that the senior programmers included and taught me because I’m the next senior programmer. Sustainability is really personal - it is more than a word, it is inclusion with action. 
+Outreach Team — 60 sec
+Tanner - This season we have helped our community with STEM demonstrations, mentoring new teams, and helping scouts earn robotics merit badges. We have shared FIRST at 13 STEM related events, including the STEM Fest and at FanX. 
+Robbie - This year we started 6 new FLL teams at Beehive and 4 people on our team mentor those teams weekly. We started a team in Canyons School District and we have also assisted 11 teams. This year I learned that mentoring is half cheering and half teaching by mentoring the Bee Positive FLL Challenge team.
+Neset - We mentored teams weekly. Weekly mentors raise hands. I learned about the usage of sensors to inform their master program by mentoring the FLL team BeeSTAR 
+Dakota - I learned that even younger kids are ready to try new things by mentoring Beehive’s FLL Discover team.
+Sara - I learned how to teach kids to be independent yet still be able to work with others by mentoring FLL Explorer (4th & 5th)  
+Dizire - We have over 100 hours in team outreach hours and over 520 hours in individual outreach hours.
+Logistics & Communications — 25 sec
+Neset - As part of our sustainability, we build our next generation through FLL in our school and we build our competition by building FLL programs at other schools. 
+Sara - We build strong connections by inviting FTC teams to come and practice our robot game with us. Part of our sustainability is being financially secure through fundraisers and fostering partnerships with mentors and sponsors.   
